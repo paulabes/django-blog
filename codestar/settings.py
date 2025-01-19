@@ -25,7 +25,7 @@ SECRET_KEY = 'v^vbqn#1ax7$yzk#kbs&paoy#d(f&python7_j+z$6a7q4da%4#9%9l8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost:8000', '127.0.0.1:8000']
+ALLOWED_HOSTS = ['localhost:8000', 'localhost', '127.0.0.1:8000', '127.0.0.1']
 
 
 # Application definition
